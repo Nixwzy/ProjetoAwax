@@ -1,3 +1,3 @@
 # ProjetoAwax
-[AWAX](https://vercel.com/nixwzys-projects/projeto-awax)
+[AWAX](https://projeto-awax-delta.vercel.app)
  
