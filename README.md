@@ -1,11 +1,11 @@
-# Projeto Awax
+# Awax Project
 
 <div align="center">
     <img src="./mockup.png"/>
 </div>
 
-Este é um projeto front-end realizado durante o curso [B7Web](https://b7web.com.br).
+This is a front-end project developed during the [B7Web](https://b7web.com.br) course.
 
-Este website apresenta somente HTML e CSS, sendo assim, algumas interações não estão disponíveis.
+This website is built using only HTML and CSS, so some interactions are not available.
 
-Você pode acessá-lo [aqui](https://projeto-awax-delta.vercel.app).
+You can access it [here](https://projeto-awax-delta.vercel.app).
