@@ -1,7 +1,7 @@
 # Projeto Awax
 
 <div align="center">
-    <img src="./mockup.png" width="1200"/>
+    <img src="./mockup.png" width="1800"/>
 </div>
 
 Este é um projeto front-end realizado durante o curso [B7Web](https://b7web.com.br).
